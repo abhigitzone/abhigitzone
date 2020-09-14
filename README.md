@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me anything about Android application development, Android Networking, API Handling, different SDKs or even how to get started with this beautiful journey. I will surely      help you out.
 - 📫 How to reach me: ...
-- ⚡ Fun fact: Irina Blok designed the logo in 2007, the general idea came from the man on toilet doors.
+- ⚡ Fun fact: Irina Blok designed the android logo in 2007, the general idea came from the man on toilet doors.
 
