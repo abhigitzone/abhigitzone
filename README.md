@@ -7,5 +7,11 @@
 - 💬 Ask me anything about application coding, Android Networking, API Handling, SDK, Firebase or even how to get started with this beautiful technology. I will surely help you       out.
 - ⚡ Fun fact: Irina Blok designed the android logo in 2007, the general idea came from the man on toilet doors.
      <br />One more? Here you go: [Phandroid](https://phandroid.com/) is a website dedicated to anything Android including news, reviews and forums. They were the first dedicated        Android website and their first post came the same day as Google officially announced Android in 2007.
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top_langs>/?username=<USERNAME>&theme=<THEME_NAME>" />
+     
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/developer-abhi99/developer-abhi99">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-abhi99&hide=nothing,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/developer-abhi99/developer-abhi99">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-abhi99&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Abhishek's GitHub Stats" />
+</a>
