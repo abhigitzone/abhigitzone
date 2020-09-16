@@ -8,3 +8,4 @@
 - ⚡ Fun fact: Irina Blok designed the android logo in 2007, the general idea came from the man on toilet doors.
      <br />One more? Here you go: [Phandroid](https://phandroid.com/) is a website dedicated to anything Android including news, reviews and forums. They were the first dedicated        Android website and their first post came the same day as Google officially announced Android in 2007.
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top_langs>/?username=<USERNAME>&theme=<THEME_NAME>" />
