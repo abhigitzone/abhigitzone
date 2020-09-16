@@ -1,5 +1,5 @@
-### Hi there, I'm  👋
-![canva1](https://user-images.githubusercontent.com/19603894/93356297-a1981600-f85c-11ea-9d76-f89f8f2d2471.png)
+### Hello Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm
+![canva2](https://user-images.githubusercontent.com/19603894/93366946-7c5dd480-f869-11ea-9ba0-c1b6b163e960.png)
 
 - 🔭 I’m currently working on a very cool android project.
 - 🌱 I’m currently learning Amazon Web Services which I seems really interesting.
