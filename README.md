@@ -8,6 +8,21 @@
 - ⚡ Fun fact: Irina Blok designed the android logo in 2007, the general idea came from the man on toilet doors.
      <br />One more? Here you go: [Phandroid](https://phandroid.com/) is a website dedicated to anything Android including news, reviews and forums. They were the first dedicated        Android website and their first post came the same day as Google officially announced Android in 2007.
      
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-c++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+
+     
+     
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/developer-abhi99/developer-abhi99">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-abhi99&hide=nothing,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
