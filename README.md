@@ -1,24 +1,29 @@
 ### Hello Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm
-![canva2](https://user-images.githubusercontent.com/19603894/93366946-7c5dd480-f869-11ea-9ba0-c1b6b163e960.png)
+![canva2](https://github.com/abhigitzone/abhigitzone/assets/19603894/afe02a4f-3f27-4cfc-84d3-0a96836688aa)
 
-- 🔭 I’m currently working on a very cool android projects.
+- 🔭 I’m currently working on a very cool Java Backend Project.
 - 🌱 I’m currently learning Amazon Web Services which I seems really interesting.
 - 📫 How to reach me: Here is my 👉[linkedin](https://www.linkedin.com/in/abhishek-0091), join in our ultimate league.
-- 💬 Ask me anything about application coding, Android Networking, API Handling, SDK, Firebase or even how to get started with this beautiful technology, I will surely help you       out.
-- ⚡ Fun fact: Irina Blok designed the android logo in 2007, the general idea came from the man on toilet doors.
-     <br />One more? Here you go: [Phandroid](https://phandroid.com/) is a website dedicated to anything Android including news, reviews and forums. They were the first dedicated        Android website and their first post came the same day as Google officially announced Android in 2007.
+- 💬 Ask me anything about application coding, API Design, Microservice, Spring Framework,or even how to get started with this beautiful technology, I will surely help you out.
+- ⚡ Fun fact: The "Hello, World!" tradition: The tradition of starting with a "Hello, World!" program as a beginner's first program is often associated with the Java programming language. 
      
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Spring-success)
+![](https://img.shields.io/badge/-Spring%20Boot-success)
+![](https://img.shields.io/badge/-Spring%20Rest-blue)
+![](https://img.shields.io/badge/-Microservices-red)
+![](https://img.shields.io/badge/-Hibernate-critical)
+![](https://img.shields.io/badge/-Postman-blueviolet)
+![](https://img.shields.io/badge/-Swagger-success)
+![](https://img.shields.io/badge/test-jUnit-important)
+![](https://img.shields.io/badge/-Apache%20Kafka-informational)
+![](https://img.shields.io/badge/-RabbitMQ-important)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-c++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
 
