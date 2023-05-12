@@ -9,11 +9,11 @@
      
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-Spring-success)
+![](https://img.shields.io/badge/-Spring%20core-success)
 ![](https://img.shields.io/badge/-Spring%20Boot-success)
 ![](https://img.shields.io/badge/-Spring%20Rest-blue)
 ![](https://img.shields.io/badge/-Microservices-red)
-![](https://img.shields.io/badge/-Hibernate-critical)
+![](https://img.shields.io/badge/-Hibernate-important)
 ![](https://img.shields.io/badge/-Postman-blueviolet)
 ![](https://img.shields.io/badge/-Swagger-success)
 ![](https://img.shields.io/badge/test-jUnit-important)
