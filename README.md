@@ -2,7 +2,7 @@
 ![canva2](https://github.com/abhigitzone/abhigitzone/assets/19603894/afe02a4f-3f27-4cfc-84d3-0a96836688aa)
 
 - 🔭 I’m currently working on a very cool Java Backend Project.
-- 🌱 I’m currently learning Amazon Web Services which I seems really interesting.
+- 🌱 I’m currently learning Vue Js.
 - 📫 How to reach me: Here is my 👉[linkedin](https://www.linkedin.com/in/abhishek-0091), join in our ultimate league.
 - 💬 Ask me anything about application coding, API Design, Microservice, Spring Framework,or even how to get started with this beautiful technology, I will surely help you out.
 - ⚡ Fun fact: The "Hello, World!" tradition: The tradition of starting with a "Hello, World!" program as a beginner's first program is often associated with the Java programming language. 
